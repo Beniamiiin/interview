@@ -24,8 +24,8 @@
 
 #### Практика
 1. [Задача 1](Multithreading/Exercises/multithreading_exercise_1.md)
-2. [Задача 2](Multithreading/Exercises/multithreading_exercise_1.md)
-3. [Задача 3](Multithreading/Exercises/multithreading_exercise_1.md)
+2. [Задача 2](Multithreading/Exercises/multithreading_exercise_2.md)
+3. [Задача 3](Multithreading/Exercises/multithreading_exercise_3.md)
 
 ## Value and Reference types
 
