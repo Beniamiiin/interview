@@ -1,1 +1,0 @@
-## Задача 3(race condition)
