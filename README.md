@@ -5,9 +5,13 @@
 2. [Устройства памяти в свифте? WWDC видео](Swift/Memory/Answers/memory_2.md)
 3. [RunLoop + RunLoopMode + autoreleasepool + NSThread + NSTimer](Swift/Memory/Answers/memory_3.md)
 4. [unowned vs weak](Swift/Memory/Answers/memory_4.md)
+5. [closure capture list](Swift/Memory/Answers/memory_5.md)
 
 #### Практика
 1. [Задача 1](Swift/Memory/Exercises/memory_exercise_1.md)
+2. [Задача 2](Swift/Memory/Exercises/memory_exercise_2.md)
+3. [Задача 3](Swift/Memory/Exercises/memory_exercise_3.md)
+4. [Задача 4](Swift/Memory/Exercises/memory_exercise_4.md)
 
 ## Multithreading(NSOperation/GCD)
 
